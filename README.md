@@ -1,7 +1,8 @@
-# Spring
+# Spring Framework
+
 > An ongoing & curated collection of awesome software, libraries, learning tutorials, technical guidelines, practical tools and resources Spring Framework.
 
-## What Is Spring?
+## `What Is Spring?`
 Simply put, the Spring framework provides comprehensive infrastructure support for developing Java applications.
 
 It's packed with some nice features like Dependency Injection, and out of the box modules like:
@@ -18,7 +19,7 @@ These modules can drastically reduce the development time of an application.
 If you're new to Spring, start with watching the [What is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM) video.
 
 
-## Table of Contents
+## `Table of Contents`
 
 * [Books](#books)
 * [Courses](#courses)
@@ -46,16 +47,16 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Boot: Up & Running](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), 2021 - A guide through Spring Boot’s architecture and approach, along with topics such as debugging, testing, and deployment.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
 
-## Courses
+## `Courses`
 
 * [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real-world application examples.
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
 
-## Podcasts
+## `Podcasts`
 
 * [Bootiful Podcast](http://bootifulpodcast.fm/) - A "celebration of the real heroes that drive ecosystems", hosted by the Spring developer advocate Josh Long.
 
-## Events
+## `Events`
 
 * [Spring One](https://springone.io/) - A two-day conference gathering developers, cloud engineers, and leaders to share knowledge about the Spring Framework ecosystem.
 
