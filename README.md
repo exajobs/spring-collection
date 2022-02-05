@@ -14,6 +14,8 @@ It's packed with some nice features like Dependency Injection, and out of the bo
 
 These modules can drastically reduce the development time of an application.
 
+If you're new to Spring, start with watching the [What is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM) video.
+
 
 ## Table of Contents
 
