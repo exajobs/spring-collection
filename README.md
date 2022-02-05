@@ -110,8 +110,8 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 
 Contributions are very welcome!
 
-Please, read the [Contribution Guidelines](https://github.com/ThomasVitale/awesome-spring/blob/master/CONTRIBUTING.md) before submitting your suggestion.
+Please, read the [Contribution Guidelines](https://github.com/ThomasVitale/spring-collection/blob/master/contributing.md) before submitting your suggestion.
 
-Feel free to [open an issue](https://github.com/exajobs/awesome-spring/issues) or [create a pull request](https://github.com/ThomasVitale/awesome-spring/pulls) with your additions.
+Feel free to [open an issue](https://github.com/exajobs/spring-collection/issues) or [create a pull request](https://github.com/exajobs/spring-collection/pulls) with your additions.
 
 Thank you!
