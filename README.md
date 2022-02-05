@@ -1,4 +1,5 @@
 # Spring
+> An ongoing & curated collection of awesome software, libraries, learning tutorials, technical guidelines, practical tools and resources Spring Framework.
 
 ## What Is Spring?
 Simply put, the Spring framework provides comprehensive infrastructure support for developing Java applications.
