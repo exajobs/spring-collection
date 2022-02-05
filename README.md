@@ -36,7 +36,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
   * [YouTube Channels and Playlists](#youtube-channels-and-playlists)
 * [Contributing](#contributing)
 
-## Books
+## `Books`
 
 * [Cloud Native Java](http://cloudnativejava.io/), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action), 2021 - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
