@@ -3,7 +3,7 @@
 > An ongoing & curated collection of awesome software, libraries, learning tutorials, technical guidelines, practical tools and resources Spring Framework.
 
 ## `What Is Spring?`
-Simply put, the Spring framework provides comprehensive infrastructure support for developing Java applications.
+Simply put, the [Spring](https://www.baeldung.com/spring-vs-spring-boot) framework provides comprehensive infrastructure support for developing Java applications.
 
 It's packed with some nice features like Dependency Injection, and out of the box modules like:
 
